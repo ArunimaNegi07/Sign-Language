@@ -177,9 +177,9 @@ Webcam
 
 Operating System: Windows 8 and Above 
 
-IDE: PyCharm 
+IDE: PyCharm / VS Code
 
-Programming Language: Python 3.9 5 
+Programming Language: Python 3.9 5 / Python 3.10
 
 Python libraries: OpenCV, NumPy, Keras,mediapipe,Tensorflow 
 
